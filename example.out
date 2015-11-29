@@ -1,0 +1,194 @@
+dirpath None
+commutators path: None
+The FCIenergy from integrals file is: -1.1457416723
+commutators path: None
+The FCIenergy from integrals file is: -1.1457416723
+commutators path: None
+The FCIenergy from integrals file is: -1.1457416723
+Number of terms 20
+terms: [[1, -1], [2, -2], [3, -3], [4, -4], [2, 1, -1, -2], [3, 1, -1, -3], [3, 2, -2, -3], [4, 1, -1, -4], [4, 2, -2, -4], [4, 3, -3, -4], [1, -3], [2, -4], [2, 1, -3, -4], [3, 2, -1, -4], [3, 2, -3, -4], [4, 1, -2, -3], [4, 1, -3, -4], [4, 3, -1, -2], [4, 3, -1, -4], [4, 3, -2, -3]]
+n orbitals: 4
+['CMO']
+CMO
+the minimum energy in the energy vector is: -1.85131133823 -1.85131133823
+  (0, 0)	-1.99764521391e-17
+  (1, 0)	8.02071253059e-20
+  (2, 0)	-1.44154881252e-16
+  (3, 0)	-0.114645494254
+  (4, 0)	5.36184965484e-17
+  (5, 0)	-1.58991488976e-17
+  (6, 0)	1.53621897931e-16
+  (7, 0)	-4.50289312295e-17
+  (8, 0)	1.55622976082e-16
+  (9, 0)	-1.18217824606e-16
+  (10, 0)	2.66516134821e-18
+  (11, 0)	1.51614194652e-16
+  (12, 0)	0.993406467991
+  (13, 0)	-1.45963532045e-16
+  (14, 0)	-4.9293405706e-17
+  (15, 0)	-1.18561025226e-16
+the minimum energy in the energy vector is: -1.85131133823 -1.85131133823
+  (0, 0)	1.17613502879e-17
+  (1, 0)	-5.38354436475e-18
+  (2, 0)	2.20800060642e-18
+  (3, 0)	-0.114645494254
+  (4, 0)	-2.04805905552e-16
+  (5, 0)	-3.32029473603e-17
+  (6, 0)	-5.51291025475e-17
+  (7, 0)	4.92309733189e-18
+  (8, 0)	-9.76874945563e-17
+  (9, 0)	1.45480832614e-17
+  (10, 0)	-2.58304639036e-18
+  (11, 0)	3.90590044981e-17
+  (12, 0)	0.993406467991
+  (13, 0)	1.48215728201e-16
+  (14, 0)	-1.07302678587e-16
+  (15, 0)	-6.26695241156e-17
+['CMO']
+electrons: 2
+cosa1 (1,)
+cosa2 (3,)
+cosa2 (4,)
+cosa1 (2,)
+cosa2 (3,)
+cosa2 (4,)
+cosa1 (1, 2)
+cosa2 (3, 4)
+operators: [[3, -1], [4, -1], [3, -2], [4, -2], [4, 3, -2, -1]]
+[3, -1]
+[4, -1]
+[3, -2]
+[4, -2]
+[4, 3, -2, -1]
+[0.0, 0.0, 0.0, 0.0, 0.0]
+This is the number of terms for VQE: 5
+CALL NUMBER: 1
+Energy difference: inf
+('Memory usage:', 24)
+CALL NUMBER: 2
+Energy difference: 2.220446e-16
+('Memory usage:', 24)
+CALL NUMBER: 3
+('Memory usage:', 24)
+CALL NUMBER: 4
+('Memory usage:', 24)
+CALL NUMBER: 5
+('Memory usage:', 24)
+CALL NUMBER: 6
+Energy difference: 5.425818e-09
+('Memory usage:', 24)
+CALL NUMBER: 7
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.3641204982995987
+CALL NUMBER: 8
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.3641204982995987
+CALL NUMBER: 9
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.3641204982995987
+CALL NUMBER: 10
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.3641204982995987
+CALL NUMBER: 11
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.3641204982995987
+CALL NUMBER: 12
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.3641204982995987
+CALL NUMBER: 13
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.3641205132007599
+CALL NUMBER: 14
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11362341327003198
+CALL NUMBER: 15
+Energy difference: 2.100832e-02
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11362341327003198
+CALL NUMBER: 16
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11362341327003198
+CALL NUMBER: 17
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11362341327003198
+CALL NUMBER: 18
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11362341327003198
+CALL NUMBER: 19
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11362341327003198
+CALL NUMBER: 20
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11362342817119317
+CALL NUMBER: 21
+Energy difference: 6.072876e-11
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11490954437527315
+CALL NUMBER: 22
+Energy difference: 2.597262e-06
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11490954437527315
+CALL NUMBER: 23
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11490954437527315
+CALL NUMBER: 24
+Energy difference: 1.332268e-15
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11490954437527315
+CALL NUMBER: 25
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11490954437527315
+CALL NUMBER: 26
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11490954437527315
+CALL NUMBER: 27
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11490955927643434
+CALL NUMBER: 28
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11489811624547132
+CALL NUMBER: 29
+Energy difference: 2.081402e-10
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11489811624547132
+CALL NUMBER: 30
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11489811624547132
+CALL NUMBER: 31
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11489811624547132
+CALL NUMBER: 32
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11489811624547132
+CALL NUMBER: 33
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11489811624547132
+CALL NUMBER: 34
+('Memory usage:', 24)
+[4, 3, -2, -1] 0.11489813114663251
+CALL NUMBER: 35
+Energy difference: 4.440892e-16
+('Memory usage:', 24)
+Optimization terminated successfully.
+         Current function value: -1.851311
+         Iterations: 3
+         Function evaluations: 35
+         Gradient evaluations: 5
+[4, 3, -2, -1] 0.11489811624547132
+CALL NUMBER: 36
+('Memory usage:', 24)
+Variationally optimal energy is -1.1457416725323721.
+
+Data 0.000000 -1.8513113382323723 5 7.549516567451064e-15.
+
+Optimal parameters 
+
+[4, 3, -2, -1] 0.114898116245
+['CMO', '-1.12473074943', '-1.14574167253', '-1.14574167253']
+Analyzing H2 in the CMO basis.
+
+Hartree-Fock energy is -1.83030041512581.
+
+Exact (FCI) energy is -1.8513113382323798.
+CISD energy is -1.8513113382323765.
+Hartree-Fock energy is -1.83030041512581.

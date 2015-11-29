@@ -1,0 +1,30 @@
+dirpath None
+commutators path: None
+The FCIenergy from integrals file is: -2.8462920967
+commutators path: None
+The FCIenergy from integrals file is: -2.8462920967
+commutators path: None
+The FCIenergy from integrals file is: -2.8462920967
+Number of terms 3
+terms: [[1, -1], [2, -2], [2, 1, -1, -2]]
+n orbitals: 2
+['CMO']
+CMO
+the minimum energy in the energy vector is: -2.84629209484 -2.84629209484
+  (0, 0)	-3.33066907388e-16
+  (1, 0)	-4.33680868994e-19
+  (2, 0)	4.4408920985e-16
+  (3, 0)	1.0
+the minimum energy in the energy vector is: -2.84629209484 -2.84629209484
+  (0, 0)	1.38777878078e-17
+  (1, 0)	2.22044604925e-16
+  (2, 0)	-2.22044604925e-16
+  (3, 0)	1.0
+['CMO']
+electrons: 2
+cosa1 (1,)
+cosa1 (2,)
+cosa1 (1, 2)
+operators: []
+[]
+This is the number of terms for VQE: 0
